@@ -1,12 +1,11 @@
-
-# ---
-# title: "LearnExpert Connect: Microservice Database Documentation"
-# version: "1.0.0"
-# last_updated: "2025-06-27"
-# author: "zakaria el khaldi"
-# status: "Active"
-# classification: "Internal"
-# ---
+<!--
+title: "LearnExpert Connect: Microservice Database Documentation"
+version: "1.0.0"
+last_updated: "2025-06-27"
+author: "zakaria el khaldi"
+status: "Active"
+classification: "Internal"
+-->
 
 
 
